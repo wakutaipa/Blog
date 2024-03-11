@@ -79,7 +79,7 @@ skills:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wakuta1pa
+    link: https://twitter.com/wakuta1pa_
     label: Check out my Twitter (X)
     display:
       header: true
