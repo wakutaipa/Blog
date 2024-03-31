@@ -52,6 +52,11 @@ skills:
         percent: 90
         icon: database
         icon_pack: fas
+      - name: Git      
+        description: 'Working with Git and Github'
+        percent: 90
+        icon: git
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -60,11 +65,6 @@ skills:
         description: ''
         percent: 60
         icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
