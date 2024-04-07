@@ -89,6 +89,27 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mildred-wakutaipa-b86389225
+  - icon: etsy
+    icon_pack: fab
+    link: https://elibrary.ru/project_user_office.asp
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/library/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0001-3145-3518
+  - icon: autoprefixer
+    icon_pack: fab
+    link: https://independent.academia.edu/MildredWakutaipa
+  - icon: archive
+    icon_pack: fas
+    link: https://arxiv.org/user/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
