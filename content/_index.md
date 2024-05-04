@@ -171,8 +171,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Artificial Intelligence
+          tag: AI
         - name: Other
           tag: Demo
     design:
